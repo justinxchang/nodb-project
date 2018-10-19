@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+
+.header {
+  border: 5px solid black;
+  font-size: 70px;
+  color: white;
+  background: black;
+  margin-bottom: 30px;
+}
+
+.phone {
+  width: 400px;
+  display: flex;
+  /* position: relative; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.message {
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-bottom: 2px;
+  background-color: white;
+  color: grey;
+  width: 250px;
+  margin-right: 2px;
+  margin-left: auto;
+
+}
+
+.icon {
+  width: 15px;
+}
+
+.button {
+  padding: 0px;
+  margin: 0;
+  border: 0;
+  background-color: white;
+}
+
+.shift {
+  margin-left: 210px;
+
+}
+
+.border {
+  border: 10px solid black;
+  width: 350px;
+  border-radius: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  background: grey;
+}
+
+.input {
+  border-radius: 5px;
+  margin-right: 0;
+  margin-top: 100px;
+
+}
